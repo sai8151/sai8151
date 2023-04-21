@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <img src="https://epidotic-masts.000webhostapp.com/github/linux_icon.svg" alt="linux" width="50" height="50"/> </a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
 <img src="https://epidotic-masts.000webhostapp.com/github/mysql_icon.svg" alt="mysql" width="70" height="70"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+  <a href="" target="_blank" rel="noreferrer"> 
 <img src="https://epidotic-masts.000webhostapp.com/github/html5_icon.svg" alt="mysql" width="70" height="70"/> </a>
   
 </p>
