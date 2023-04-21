@@ -13,4 +13,22 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<h3 align="left">Connect with me:</h3>
 -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sai8151&label=Profile%20views&color=0e75b6&style=flat" alt="sai8151" /> </p>
+
+
+
+
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+<img src="linux_icon.svg" alt="linux" width="40" height="40"/> </a> 
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+<img src="mysql_icon.svg" alt="mysql" width="40" height="40"/> </a>
+</p>
