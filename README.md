@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/> </a> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-<img src="linux_icon.svg" alt="linux" width="40" height="40"/> </a> 
+<img src="https://epidotic-masts.000webhostapp.com/github/linux_icon.svg" alt="linux" width="50" height="50"/> </a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-<img src="mysql_icon.svg" alt="mysql" width="40" height="40"/> </a>
+<img src="https://epidotic-masts.000webhostapp.com/github/mysql_icon.svg" alt="mysql" width="70" height="70"/> </a>
 </p>
