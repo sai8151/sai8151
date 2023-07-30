@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 
 <h3 align="left">Profiles :</h3>
 
-<a href="www.hackerrank.com/saikiranreddy812" target="_blank" rel="noreferrer"> 
-<img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="figma" width="50" height="50"/> <p>HackerRank</p></a> 
+<a href="https://www.hackerrank.com/saikiranreddy812" target="_blank" rel="noreferrer"> 
+<img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="HR" width="50" height="50"/> </a> <p>HackerRank</p>
 
 
 <br><br>
