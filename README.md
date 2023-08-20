@@ -1,4 +1,4 @@
-<img align="right" src="https://raw.githubusercontent.com/sai8151/sai8151/main/earthSVG.svg?raw=true" width="50" height="50"/>
+<img align="right" src="https://github.com/sai8151/sai8151/main/earthSVG.svg?raw=true" width="50" height="50"/>
 
 <!--
 **sai8151/sai8151** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
