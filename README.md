@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <h3 align="left">Profiles :</h3>
 
 <a href="https://www.hackerrank.com/saikiranreddy812" target="_blank" rel="noreferrer"> 
-<img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="HR" width="50" height="50"/> </a> <p>HackerRank</p>
+<img src="https://epidotic-masts.000webhostapp.com/hackerrank-svgrepo-com.svg" alt="HR" width="50" height="50"/> </a> <p>HackerRank</p>
 
 
 <br><br>
