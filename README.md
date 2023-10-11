@@ -22,7 +22,9 @@ Here are some ideas to get you started:
 <br>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=sai8151&label=Profile%20views&color=0e75b6&style=flat" alt="sai8151"/> </p>
 <br>
-![](https://komarev.com/ghpvc/?username=sai8151&color=green)
+<p align="right">
+<img src="https://komarev.com/ghpvc/?username=sai8151&color=orange"/>
+</p>
 <br>
 <!--
 <img align="right" src="https://epidotic-masts.000webhostapp.com/earthSVG.svg" width="150" height="150" style="background-color:"white"/>
