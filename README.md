@@ -40,6 +40,8 @@ Here are some ideas to get you started:
 <p align="left">
   
 </p>
+<a href="https://sai8151.github.io/sai8151/">Resume</a>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
