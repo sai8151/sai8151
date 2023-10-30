@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 <h3 align="left">Connect with me:</h3>
 -->
-
-<br>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=sai8151&label=Profile%20views&color=0e75b6&style=flat" alt="sai8151"/> </p>
 <br>
 <p align="right">
