@@ -27,20 +27,13 @@ Here are some ideas to get you started:
 <!--
 <img align="right" src="https://epidotic-masts.000webhostapp.com/earthSVG.svg" width="150" height="150" style="background-color:"white"/>
 -->
-
 <h3 align="left">Profiles :</h3>
-
 <a href="https://www.hackerrank.com/saikiranreddy812" target="_blank" rel="noreferrer"> 
 <img src="https://epidotic-masts.000webhostapp.com/hackerrank-svgrepo-com.svg" alt="HR" width="50" height="50"/> </a> <p>HackerRank</p>
-
-
 <br><br>
 <p align="left">
-  
 </p>
 <a href="https://sai8151.github.io/sai8151/">Resume</a>
-
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
@@ -51,7 +44,6 @@ Here are some ideas to get you started:
 <img src="https://epidotic-masts.000webhostapp.com/github/mysql_icon.svg" alt="mysql" width="70" height="70"/> </a>
 <a href="" target="_blank" rel="noreferrer"> 
 <img src="https://epidotic-masts.000webhostapp.com/github/html5_icon.svg" alt="html" width="70" height="60"/> </a>
-  
 </p>
 </body>
 </html>
