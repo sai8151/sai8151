@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <br><br>
 <p align="left">
 </p>
-<a href="https://sai8151.github.io/sai8151/">Resume</a>
+<a href="https://github.com/sai8151/sai8151/res1.htm1l.pdf">Resume</a>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
