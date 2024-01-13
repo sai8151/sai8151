@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <br><br>
 <p align="left">
 </p>
-<a href="https://sai8151.github.io/portfolio/">View Resume</a>
+<a href="https://saikiranreddy.info/">View Resume</a>
 <a href="https://sai8151.github.io/sai8151/res1.htm1l.pdf">Download Resume</a>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
