@@ -50,3 +50,37 @@ Here are some ideas to get you started:
 </p>
 </body>
 </html>
+
+
+
+
+<!-- Profile Links -->
+<h3 align="left">Profiles:</h3>
+<p align="left">
+  <a href="https://www.hackerrank.com/saikiranreddy812" target="_blank">
+    <img src="https://epidotic-masts.000webhostapp.com/hackerrank-svgrepo-com.svg" alt="HackerRank" width="50" height="50">
+  </a>
+  HackerRank
+</p>
+<p align="left">
+  <a href="https://saikiranreddy.info/blog" target="_blank">View Blog</a> |
+  <a href="https://saikiranreddy.info/" target="_blank">View Resume</a> |
+  <a href="https://sai8151.github.io/sai8151/res1.htm1l.pdf" target="_blank">Download Resume</a>
+</p>
+
+<!-- Languages and Tools -->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://www.figma.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="50" height="50">
+  </a>
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://epidotic-masts.000webhostapp.com/github/linux_icon.svg" alt="Linux" width="50" height="50">
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://epidotic-masts.000webhostapp.com/github/mysql_icon.svg" alt="MySQL" width="70" height="70">
+  </a>
+  <a href="" target="_blank">
+    <img src="https://epidotic-masts.000webhostapp.com/github/html5_icon.svg" alt="HTML" width="70" height="60">
+  </a>
+</p>
