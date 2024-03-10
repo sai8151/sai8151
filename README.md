@@ -27,29 +27,7 @@ Here are some ideas to get you started:
 <!--
 <img align="right" src="https://epidotic-masts.000webhostapp.com/earthSVG.svg" width="150" height="150" style="background-color:"white"/>
 -->
-<h3 align="left">Profiles :</h3>
-<a href="https://www.hackerrank.com/saikiranreddy812" target="_blank" rel="noreferrer"> 
-<img src="https://epidotic-masts.000webhostapp.com/hackerrank-svgrepo-com.svg" alt="HR" width="50" height="50"/> </a> <p>HackerRank</p>
-<br><br>
-<p align="left">
-</p>
-<a href="https://saikiranreddy.info/blog">View blog/a>
-<a 
-<a href="https://saikiranreddy.info/">View Resume</a>
-<a href="https://sai8151.github.io/sai8151/res1.htm1l.pdf">Download Resume</a>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/> </a> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-<img src="https://epidotic-masts.000webhostapp.com/github/linux_icon.svg" alt="linux" width="50" height="50"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-<img src="https://epidotic-masts.000webhostapp.com/github/mysql_icon.svg" alt="mysql" width="70" height="70"/> </a>
-<a href="" target="_blank" rel="noreferrer"> 
-<img src="https://epidotic-masts.000webhostapp.com/github/html5_icon.svg" alt="html" width="70" height="60"/> </a>
-</p>
-</body>
-</html>
+
 
 
 
