@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.figma.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="50" height="50">
+    <img src="https://w7.pngwing.com/pngs/54/524/png-transparent-figma-app-logo-tech-companies.png" alt="Figma" width="50" height="50">
   </a>
   <a href="https://www.linux.org/" target="_blank">
     <img src="https://epidotic-masts.000webhostapp.com/github/linux_icon.svg" alt="Linux" width="50" height="50">
