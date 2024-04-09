@@ -1,4 +1,4 @@
-<p align="left">  
+<p align="center">  
   <a href="https://saikiranreddy.info/portfolio/" target="_blank">Portfolio</a> |
   <a href="https://saikiranreddy.info/blog" target="_blank">View Blog</a> |
   <a href="https://saikiranreddy.info/" target="_blank">View Resume</a> |
