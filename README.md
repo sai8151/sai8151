@@ -55,12 +55,12 @@ Here are some ideas to get you started:
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" width="50" height="50">
   </a>
   <a href="https://www.linux.org/" target="_blank">
-    <img src="https://epidotic-masts.000webhostapp.com/github/linux_icon.svg" alt="Linux" width="50" height="50">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Linux" width="50" height="50">
   </a>
   <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://epidotic-masts.000webhostapp.com/github/mysql_icon.svg" alt="MySQL" width="70" height="70">
+    <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="MySQL" width="70" height="70">
   </a>
   <a href="" target="_blank">
-    <img src="https://epidotic-masts.000webhostapp.com/github/html5_icon.svg" alt="HTML" width="70" height="60">
+    <img src="https://www.svgrepo.com/show/315648/c-plus-plus.svg" alt="C++" width="70" height="60">
   </a>
 </p>
