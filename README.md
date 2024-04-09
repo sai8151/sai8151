@@ -63,4 +63,25 @@ Here are some ideas to get you started:
   <a href="" target="_blank">
     <img src="https://www.svgrepo.com/show/315648/c-plus-plus.svg" alt="C++" width="70" height="60">
   </a>
+   <a href="https://www.w3schools.com/html/" target="_blank" class="skill-link">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/HTML5_logo.svg" alt="HTML" width="50" height="50" />
+      </a>
+      <a href="https://www.w3schools.com/css/" target="_blank" class="skill-link">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_(official_logo).svg" alt="CSS" width="50" height="50" />
+      </a>
+      <a href="https://www.javascript.com/" target="_blank" class="skill-link">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/JavaScript_logo.svg" alt="JavaScript" width="50" height="50" />
+      </a>
+      <a href="https://www.php.net/" target="_blank" class="skill-link">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/PHP-logo.svg" alt="PHP" width="50" height="50" />
+      </a>
+      <a href="https://www.w3schools.com/sql/" target="_blank" class="skill-link">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/94/SQL_logo.svg" alt="SQL" width="50" height="50" />
+      </a>
+      <a href="https://www.python.org/" target="_blank" class="skill-link">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="50" height="50" />
+      </a>
+      <a href="https://www.oracle.com/java/" target="_blank" class="skill-link">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Java_Cup_Logo.svg" alt="Java" width="50" height="50" />
+      </a>
 </p>
