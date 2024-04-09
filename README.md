@@ -1,21 +1,9 @@
-
-
-<p align="right">
-<img src="https://komarev.com/ghpvc/?username=sai8151&color=orange"/>
-</p>
-<br>
-
-<p align="left">
-  
+<p align="left">  
   <a href="https://saikiranreddy.info/portfolio/" target="_blank">Portfolio</a> |
   <a href="https://saikiranreddy.info/blog" target="_blank">View Blog</a> |
   <a href="https://saikiranreddy.info/" target="_blank">View Resume</a> |
   <a href="https://sai8151.github.io/sai8151/res1.htm1l.pdf" target="_blank">Download Resume</a>
 </p>
-
-
-
-
 <h1 align="center">Hi 👋, I'm sai kiran</h1>
 <h3 align="center">A passionate developer from India</h3>
 
