@@ -39,6 +39,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sai8151&show_icons=true&locale=en&layout=compact" alt="sai8151" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sai8151&show_icons=true&locale=en" alt="sai8151" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sai8151&show_icons=true&locale=en&theme=radical" alt="sai8151" /></p>
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sai8151&theme=soft-green&card_width=720" alt="GitHub Streak" /></a>
