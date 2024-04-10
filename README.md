@@ -41,5 +41,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sai8151&show_icons=true&locale=en" alt="sai8151" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sai8151&" alt="sai8151" /></p>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sai8151&theme=soft-green&card_width=720" alt="GitHub Streak" /></a>
