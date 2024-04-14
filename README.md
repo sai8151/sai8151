@@ -39,7 +39,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sai8151&show_icons=true&locale=en&layout=compact&theme=radical" alt="sai8151" /></p>
 <br>
-
+<hr>
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sai8151&show_icons=true&locale=en&theme=radical" alt="sai8151" /></p>
 
