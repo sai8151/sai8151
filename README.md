@@ -13,12 +13,6 @@
 
 - 🔭 I’m currently working on **Federated learning**
 
-- 👯 I’m looking to collaborate on [Deltasolutions](https://deltasolutions.ltd)
-
-- 👨‍💻 All of my projects are available at [https://saikiranreddy.info/portfolio/](https://saikiranreddy.info/portfolio/)
-
-- 📝 I regularly write articles on [https://saikiranreddy.info/blog](https://saikiranreddy.info/blog)
-
 - 📫 How to reach me **saikiranreddy8151@gmail.com**
 
 - 📄 Know about my experiences [https://saikiranreddy.info/](https://saikiranreddy.info/)
